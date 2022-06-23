@@ -6,5 +6,4 @@ Merhaba arakadaşlar, bu haftaki konularla ilgili bilgileri kullanabileceğiniz 
 
 https://www.hackerrank.com/challenges/java-priority-queue/problem
 
-
 Kolay gelsin.
